@@ -1,0 +1,27 @@
+### 1. Camada Física (Physical Layer)
+- *Função:* Transmissão de dados brutos através de um meio físico.
+- *Exemplos:* Cabos, conectores, sinalizações elétricas e ópticas.
+
+### 2. Camada de Enlace de Dados (Data Link Layer)
+- *Função:* Fornece transferência de dados livre de erros entre dois nós conectados. Adiciona endereçamento físico.
+- *Exemplos:* Protocolos Ethernet, PPP (Point-to-Point Protocol).
+
+### 3. Camada de Rede (Network Layer)
+- *Função:* Controla a operação da sub-rede, determinando como os dados são enviados entre dispositivos, incluindo roteamento.
+- *Exemplos:* IP (Internet Protocol), ICMP (Internet Control Message Protocol).
+
+### 4. Camada de Transporte (Transport Layer)
+- *Função:* Garante a entrega correta e ordenada dos dados, além de controle de fluxo e verificação de erros.
+- *Exemplos:* TCP (Transmission Control Protocol), UDP (User Datagram Protocol).
+
+### 5. Camada de Sessão (Session Layer)
+- *Função:* Gerencia sessões de comunicação entre aplicações, estabelecendo, gerenciando e encerrando conexões.
+- *Exemplos:* Protocólos que gerenciam sessões, como RPC (Remote Procedure Call).
+
+### 6. Camada de Apresentação (Presentation Layer)
+- *Função:* Traduz dados entre o formato da aplicação e o formato de rede. Pode incluir criptografia e compressão.
+- *Exemplos:* JPEG, MPEG, SSL (Secure Sockets Layer).
+
+### 7. Camada de Aplicação (Application Layer)
+- *Função:* Fornece serviços de rede diretamente às aplicações do usuário.
+- *Exemplos:* HTTP, FTP, SMTP.
